@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Class Component:</h1>
       <Message />
-      <h1>Fucntion Component:</h1>
+      <h1>Function Component:</h1>
       <HelloFunction />
 
     </div>
